@@ -1,4 +1,4 @@
-# php7-wkhtltox
+# php7-wkhtmltox
 PHP bindings for the fabulous `libwkhtmltox`
 
 Special thanks to antialize for creating [wkhtmltopdf](http://wkhtmltopdf.org)
