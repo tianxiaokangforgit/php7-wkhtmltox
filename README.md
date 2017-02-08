@@ -1,5 +1,4 @@
-该扩展基于PHP7版本
-
+# php7-wkhtltox
 PHP bindings for the fabulous `libwkhtmltox`
 
 Special thanks to antialize for creating [wkhtmltopdf](http://wkhtmltopdf.org)
